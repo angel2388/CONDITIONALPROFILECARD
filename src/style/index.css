@@ -1,6 +1,9 @@
 .filters {
   background: white;
   width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
 }
 .filters li {
   display: inline-block;
